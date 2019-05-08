@@ -2,6 +2,8 @@
 
 It's election night! Exciting! We have a feed of election results from a data supplier. They will supply us a file which will be updated throughout the night as results come in.
 
+You will be judged not just by your code but by any tests you create.
+
 ## Results format
 
 The fields in the file will be separated by commas but each row will vary in length as described below.

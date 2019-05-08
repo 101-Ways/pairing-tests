@@ -1,0 +1,4 @@
+severity = 3
+
+[-Perl::Critic::Policy::InputOutput::RequireBriefOpen]
+
